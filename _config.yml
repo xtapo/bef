@@ -39,7 +39,7 @@ mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.
 analytics:
 
 # Paginate
-paginate: 5
+paginate: 20
 paginate_path: /page:num/
 
 # Build settings
