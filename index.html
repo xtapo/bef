@@ -6,7 +6,7 @@ layout: main
   <div class="chapter">
     <a href="{{post.url | prepend: site.baseurl}}">
       {% if post.img %}
-      <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
+      <img src={{ "//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }} "/assets/img/" | prepend: site.baseurl | append: post.img }} &w=375&h=241&t=square" alt="{{post.title}}">
       {% endif %}
     </a>
     <div class="chapter_inner">
