@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Sexy Girl, Cute Girl, Beautiful Girl: Photos
 permalink: ':title/'
 #baseurl: "/bef" # the subpath of your site, e.g. /blog
-url: "https://photo.xtapo.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://photos.xtapo.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
