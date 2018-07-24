@@ -1,6 +1,6 @@
 logo: # add logo name
 title: Xtapo - Sexy Girl Photos
-description: Sexy Girl, Cute Girl, Beautiful Girl: Photos # this means to ignore newlines until "baseurl:"
+description: > Sexy Girl, Cute Girl, Beautiful Girl: Photos # this means to ignore newlines until "baseurl:"
 
 permalink: ':title/'
 #baseurl: "/bef" # the subpath of your site, e.g. /blog
