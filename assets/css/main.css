@@ -4915,3 +4915,10 @@ cite {
     font-size: 1.2rem;
   }
 }
+
+.cse .gsc-control-cse, .gsc-control-cse {
+    padding: 1em;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
