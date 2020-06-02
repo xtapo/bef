@@ -1,9 +1,24 @@
 ---
-layout: post
-title: About
+layout: default
+title: Search
 permalink: /search/
 ---
+{% include header.html %}
+{% include ads.html %}
+{% comment %}
+{% include banner.html %} -->
+{% endcomment %}
+<main class="page-content" aria-label="Content">
+<section class="chapters cf">
+    <div class="wrapper flex-row">
+    {{ content }}
+    </div>
+</section>
+</main>
 <!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script async src="https://cse.google.com/cse.js?cx=008176202762021373747:i0y6e735r1b"></script>
 <div class="gcse-search"></div>
+
+{% include pagination.html %}
+{% include footer.html %}
