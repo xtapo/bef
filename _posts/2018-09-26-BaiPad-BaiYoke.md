@@ -11,4 +11,4 @@ Model : Pathcha Tanwiset & Yokzyokz Jung
 Photographer : Pratya Sayajark    
 Google Drive [Download Full](http://gestyy.com/e0Gqlq)
 
-{% include image-gallery.html folder="/assets/img/BaiPad-BaiYoke/" %}
+{% include image-gallery.html folder="/assets/img/A1/BaiPad-BaiYoke/" %}

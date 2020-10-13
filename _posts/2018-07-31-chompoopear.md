@@ -11,4 +11,4 @@ Model : Chompoopear Chompakkamon
 Photographer : Suvapich Thaothampitak   
 Google Drive [Download Full](http://gestyy.com/e0GeiR)            
 
-{% include image-gallery.html folder="/assets/img/chompoopear/" %}
+{% include image-gallery.html folder="/assets/img/A1/chompoopear/" %}

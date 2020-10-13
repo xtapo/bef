@@ -12,4 +12,4 @@ Photograher : สัณหณัฐ กิจรอบคอบ
 
 /mp3/Tobu-Infectious.mp3
 
-{% include image-gallery.html folder="/assets/img/Ploypream/" %}
+{% include image-gallery.html folder="/assets/img/A1/Ploypream/" %}

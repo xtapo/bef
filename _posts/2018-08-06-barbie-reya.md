@@ -11,4 +11,4 @@ Model : Sukanda S. Barbie , Raya Taylor Hilton
 Photographer : Kitipoom Beer Suwanteep 
 Google Drive [Download Full](http://gestyy.com/e0GqTj)         
 
-{% include image-gallery.html folder="/assets/img/barbie-reya/" %}
+{% include image-gallery.html folder="/assets/img/A1/barbie-reya/" %}
